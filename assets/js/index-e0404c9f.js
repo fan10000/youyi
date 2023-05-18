@@ -1,0 +1,1 @@
+import{_ as e,o as c,R as t}from"./_plugin-vue_export-helper-4a308993.js";const o={},r={class:"article-page"};function s(a,n){return c(),t("div",r,"article")}const i=e(o,[["render",s]]);export{i as default};
